@@ -1,4 +1,9 @@
 h2 {
     color: green;
 }
-p {color: blue;} 
+
+p {
+    color: blue;
+}
+
+.boxmodel { border: 5px solid red;}
